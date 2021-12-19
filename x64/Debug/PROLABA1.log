@@ -1,0 +1,10 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Send в функции "void __cdecl task2(void)" (?task2@@YAXXZ).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Recv в функции "void __cdecl task2(void)" (?task2@@YAXXZ).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Comm_size в функции "void __cdecl task1(void)" (?task1@@YAXXZ).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Comm_rank в функции "void __cdecl task1(void)" (?task1@@YAXXZ).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Init в функции "void __cdecl task1(void)" (?task1@@YAXXZ).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ MPI_Finalize в функции "void __cdecl task1(void)" (?task1@@YAXXZ).
+C:\Program Files (x86)\MPICH2\lib\mpi.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Program Files (x86)\MPICH2\lib\cxx.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Bublyk\Desktop\PRO\PROLABA1\x64\Debug\PROLABA1.exe : fatal error LNK1120: неразрешенных внешних элементов: 6

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Bublyk\Desktop\PRO\PROLABA1\Source.cpp(22,13): warning C4101: status: неиспользованная локальная переменная
+C:\Users\Bublyk\Desktop\PRO\PROLABA1\Source.cpp(62,13): warning C4101: status: неиспользованная локальная переменная
+C:\Users\Bublyk\Desktop\PRO\PROLABA1\Source.cpp(117,13): warning C4101: status: неиспользованная локальная переменная
+  PROLABA1.vcxproj -> C:\Users\Bublyk\Desktop\PRO\PROLABA1\Debug\PROLABA1.exe
